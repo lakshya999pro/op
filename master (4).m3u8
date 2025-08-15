@@ -1,0 +1,17 @@
+#EXTM3U
+## Processed on 2025-08-15 05:37:59 UTC
+#EXT-X-TARGETDURATION:13
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:101014
+#EXT-X-PROGRAM-DATE-TIME:2025-08-15T05:38:15.339Z
+#EXT-X-KEY:METHOD=AES-128,IV=0x303030303030303030303030689ebeae,URI="/key/68524570-84ef-40af-a4c3-24d87a0a6896/487565",KEYFORMAT="identity"
+#EXTINF:12.971,
+https://804890791613.e930766a8fd6eb0f355ed6abd7049e42.eu.r2.cloudflarestorage.com/IMG_2576823114.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=7208943116ee552aff199ac62ebb4b66%2F20250815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250815T053721Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=5502b63bfff3ead54adbce11c1c9711e897b9a20134a68d63ea1bcd5f25ee3dd
+#EXTINF:7.425,
+https://804890791613.e930766a8fd6eb0f355ed6abd7049e42.eu.r2.cloudflarestorage.com/IMG_7273075076.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=7208943116ee552aff199ac62ebb4b66%2F20250815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250815T053732Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=47cc2bd049a78b6b6c0fa245fd828740e3657c753e1268a2d387ac32ae7641d0
+#EXTINF:11.261,
+https://804890791613.e930766a8fd6eb0f355ed6abd7049e42.eu.r2.cloudflarestorage.com/IMG_4416711845.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=7208943116ee552aff199ac62ebb4b66%2F20250815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250815T053745Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=b03f8bde4481607428da9566e82db82b3a461faf0430ac680a47495adfe763f3
+#EXTINF:6.715,
+https://804890791613.e930766a8fd6eb0f355ed6abd7049e42.eu.r2.cloudflarestorage.com/IMG_6501061280.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=7208943116ee552aff199ac62ebb4b66%2F20250815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250815T053745Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=358d7bb15a9a5e5431b39f72f76b504d8a0bb82255d7a6891ffd55a7ef91bd63
+#EXTINF:7.841,
+https://804890791613.e930766a8fd6eb0f355ed6abd7049e42.eu.r2.cloudflarestorage.com/IMG_1684849220.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=7208943116ee552aff199ac62ebb4b66%2F20250815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250815T053800Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=1a34295ae3b60c65fafe13fe120e52a32e939449d4a5fd43368c90afce39d81d
