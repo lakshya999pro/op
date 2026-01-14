@@ -1,0 +1,33 @@
+{
+  "banner": "https://example.com/banner.jpg",
+  "recent": [
+    {
+      "title": "Match Recap",
+      "thumbnail": "https://example.com/recent1.jpg",
+      "url": "https://stream.url/video.m3u8",
+      "cookies": "your_cookie_here"
+    }
+  ],
+  "tournaments": [
+    {
+      "image": "https://example.com/wc_logo.png",
+      "target_page": "tournament_details.html"
+    }
+  ],
+  "highlights_1": [
+    {
+      "title": "WPL Highlight 1",
+      "thumbnail": "https://example.com/h1.jpg",
+      "duration": "10m",
+      "url": "https://stream.url/h1.m3u8"
+    }
+  ],
+  "highlights_2": [
+    {
+      "title": "WPL Highlight 2",
+      "thumbnail": "https://example.com/h2.jpg",
+      "duration": "15m",
+      "url": "https://stream.url/h2.m3u8"
+    }
+  ]
+}
