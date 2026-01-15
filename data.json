@@ -16,10 +16,16 @@
   ],
   "highlights_1": [
     {
-      "title": "WPL Highlight 1",
-      "thumbnail": "https://example.com/h1.jpg",
-      "duration": "10m",
-      "url": "https://stream.url/h1.m3u8"
+      "title": "IND vs NZ: 2nd ODI, Highlights",
+      "thumbnail": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/3186/1768408363186-h",
+      "duration": "15m",
+      "url": "https://www.googleapis.com/drive/v3/files/1JLFwg4at2w8wYby9qWqJVqElOD7Ht9vM?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+    },
+    {
+      "title": "IND vs NZ: 1nd ODI, Highlights",
+      "thumbnail": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/1524/1768146531524-h",
+      "duration": "165m",
+      "url": "https://www.googleapis.com/drive/v3/files/1QA_h-c80tM7xDd6ZVf0_p9ePqSYcAjMq?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
     }
   ],
   "highlights_2": [
