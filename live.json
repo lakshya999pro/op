@@ -6,15 +6,8 @@
       "message": "You can now long press on any channel to add it to your favorites. Access them quickly from the Favorites tab!",
       "timestamp": "2026-02-09T10:00:00Z",
       "read": false,
-      "url": ""
-    },
-     {
-      "id": "notif_002",
-      "title": "Maintenance Notice",
-      "message": "Scheduled maintenance on February 12th from 2:00 AM - 4:00 AM UTC. Some streams may be temporarily unavailable.",
-      "timestamp": "2026-02-07T12:00:00Z",
-      "read": false,
-      "url": ""
+      "url": "https://t.me/kineflexlive"
     }
+    
   ]
 }
