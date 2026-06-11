@@ -1,0 +1,15 @@
+{
+  "appTitle": "My Video App",
+  "videos": [
+    {
+      "id": "6a2a31a8beb29",
+      "title": "Video 1",
+      "url": "https://e57.etvp.cc/uploads/6a2a31a8beb29.mp4"
+    },
+    {
+      "id": "6a2a31a8bf5ca",
+      "title": "Video 2",
+      "url": "https://e57.etvp.cc/uploads/6a2a31a8bf5ca.mp4"
+    }
+  ]
+}
